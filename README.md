@@ -1,5 +1,6 @@
 # app-dev
 my first repository
--Titanic
--Barbie
--Ant man
+
+- Titanic
+- Barbie
+- Ant man
